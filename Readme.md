@@ -123,7 +123,7 @@ Phi3: The AI industry is evolving fast, and China's latest innovation is shaking
 
 ---
 
-## 📌 Uninstalling
+## Uninstalling
 
 To remove Ollama and its models:
 
@@ -133,7 +133,7 @@ ollama rm phi3:mini
 brew uninstall ollama
 ```
 
-## 📌 Environment Setup (`requirements.yaml`)
+## Environment Setup (`requirements.yaml`)
 
 For easy dependency installation:
 
